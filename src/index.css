@@ -38,3 +38,16 @@ body > div {
 .home{
   background-color: pink;
 }
+.green {
+  background-color: #12832a;
+  color: rgb(139, 170, 165);
+}
+.purple {
+  background-color: #572488;
+  color: rgb(70, 122, 131);
+}
+#footer h3 {
+  padding: 1em;
+  justify-content: space-evenly;
+  text-align: left;
+}
